@@ -217,6 +217,7 @@ public class RentalCarTest extends CommonAPI {
         rentalCar.clickFullyCharged();
         isPresent(getDriver().findElement(By.xpath("//*[@id=\"ct-search-results\"]/div[2]/ct-availability-list-header/div/ct-availability-filters-applied/div/div/div/div[2]/span")));
 
+
     }
 
     @Test
