@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Hotels Regression">
+    <parameter name="useCloudEnv" value="false"></parameter>
+    <parameter name="envName" value="browserstack"></parameter>
+    <parameter name="os" value="mac"></parameter>
+    <parameter name="osVersion" value="10"></parameter>
+    <parameter name="browserName" value="chrome"></parameter>
+    <parameter name="browserVersion" value="102"></parameter>
+    <parameter name="url" value="https://www.hotels.com"></parameter>
+
+
+    <test name="hotels test cases">
+        <classes>
+
+            <class name="apps.Hotels.ChangeRegionTest"></class>
+            <class name="apps.Hotels.CustomerServiceTest"></class>
+            <class name="apps.Hotels.FootersTest"></class>
+            <class name="apps.Hotels.HomePageTest"></class>
+            <class name="apps.Hotels.ListYourPropertyTest"></class>
+            <class name="apps.Hotels.LoginPageTest"></class>
+            <class name="apps.Hotels.RentalCarTest"></class>
+            <class name="apps.Hotels.SearchStaysTest"></class>
+            <class name="apps.Hotels.SignUpTest"></class>
+
+
+        </classes>
+    </test>
+</suite>
+

@@ -1,0 +1,823 @@
+15:10:22.957 pages.HotelsPages.SearchStays - clicked
+15:10:23.273 pages.HotelsPages.SearchStays - location entered
+15:10:23.516 pages.HotelsPages.SearchStays - clicked
+15:10:25.985 base.CommonAPI - Screenshot captured
+13:35:15.187 pages.HotelsPages.ChangeRegion - clicked
+13:35:40.402 pages.HotelsPages.ChangeRegion - region selected
+13:35:40.525 pages.HotelsPages.ChangeRegion - clicked
+13:35:58.316 pages.HotelsPages.CustomerService - clicked
+13:35:58.996 pages.HotelsPages.CustomerService - clicked
+13:36:24.764 base.CommonAPI - Screenshot captured
+13:36:50.867 pages.HotelsPages.CustomerService - clicked
+13:36:50.933 pages.HotelsPages.CustomerService - clicked
+13:36:51.104 pages.HotelsPages.CustomerService - clicked
+13:36:51.173 pages.HotelsPages.CustomerService - clicked
+13:37:15.479 pages.HotelsPages.CustomerService - clicked
+13:37:15.546 pages.HotelsPages.CustomerService - clicked
+13:37:15.677 pages.HotelsPages.CustomerService - clicked
+13:37:16.111 pages.HotelsPages.CustomerService - clicked
+13:37:35.569 pages.HotelsPages.CustomerService - clicked
+13:37:35.631 pages.HotelsPages.CustomerService - clicked
+13:37:35.724 pages.HotelsPages.CustomerService - clicked
+13:37:35.906 pages.HotelsPages.CustomerService - clicked
+13:37:36.306 pages.HotelsPages.CustomerService - clicked
+13:37:53.375 pages.HotelsPages.CustomerService - clicked
+13:37:53.436 pages.HotelsPages.CustomerService - clicked
+13:38:09.563 pages.HotelsPages.Footers - clicked
+13:38:13.826 pages.HotelsPages.Footers - clicked
+13:38:26.691 pages.HotelsPages.Footers - clicked
+13:38:34.868 pages.HotelsPages.Footers - clicked
+13:38:49.389 pages.HotelsPages.Footers - clicked
+13:39:07.888 pages.HotelsPages.Footers - clicked
+13:39:12.304 pages.HotelsPages.Footers - clicked
+13:39:25.155 pages.HotelsPages.Footers - clicked
+13:39:44.035 pages.HotelsPages.Footers - clicked
+13:39:58.597 pages.HotelsPages.Footers - clicked
+13:40:20.074 pages.HotelsPages.Footers - clicked
+13:40:33.673 pages.HotelsPages.Footers - clicked
+13:40:49.462 pages.HotelsPages.Footers - clicked
+13:41:04.851 pages.HotelsPages.Footers - clicked
+13:41:20.214 pages.HotelsPages.Footers - clicked
+13:41:35.281 pages.HotelsPages.Footers - clicked
+13:41:52.284 pages.HotelsPages.Footers - clicked
+13:42:09.966 pages.HotelsPages.Footers - clicked
+13:42:37.204 pages.HotelsPages.Footers - clicked
+13:42:37.276 pages.HotelsPages.Footers - checked mark
+13:42:57.497 pages.HotelsPages.Footers - clicked
+13:42:58.412 pages.HotelsPages.Footers - clicked
+13:43:16.479 pages.HotelsPages.HomePage - clicked
+13:43:33.575 pages.HotelsPages.HomePage - clicked
+13:43:46.048 pages.HotelsPages.ListYourProperty - clicked
+13:43:52.890 pages.HotelsPages.ListYourProperty - clicked
+13:44:06.600 pages.HotelsPages.ListYourProperty - clicked
+13:44:14.993 pages.HotelsPages.ListYourProperty - clicked
+13:44:29.422 pages.HotelsPages.LoginPage - clicked
+13:44:34.240 pages.HotelsPages.LoginPage - clicked
+13:44:34.488 pages.HotelsPages.LoginPage - email entered
+13:44:34.625 pages.HotelsPages.LoginPage - password entered
+13:44:34.759 pages.HotelsPages.LoginPage - clicked
+13:44:42.031 pages.HotelsPages.LoginPage - clicked
+13:44:45.979 pages.HotelsPages.LoginPage - clicked
+13:44:48.506 pages.HotelsPages.LoginPage - clicked
+13:45:01.986 pages.HotelsPages.LoginPage - clicked
+13:45:02.047 pages.HotelsPages.LoginPage - clicked
+13:45:20.537 base.CommonAPI - Screenshot captured
+13:45:33.324 pages.HotelsPages.LoginPage - clicked
+13:45:38.366 pages.HotelsPages.LoginPage - clicked
+13:45:38.557 pages.HotelsPages.LoginPage - email entered
+13:45:38.669 pages.HotelsPages.LoginPage - password entered
+13:45:38.793 pages.HotelsPages.LoginPage - clicked
+13:45:45.726 pages.HotelsPages.LoginPage - clicked
+14:07:07.143 pages.HotelsPages.LoginPage - clicked
+14:07:07.684 pages.HotelsPages.LoginPage - clicked
+14:07:34.352 base.CommonAPI - Screenshot captured
+14:07:50.751 pages.HotelsPages.LoginPage - clicked
+14:07:50.837 pages.HotelsPages.LoginPage - clicked
+14:08:17.145 base.CommonAPI - Screenshot captured
+14:08:32.092 pages.HotelsPages.LoginPage - clicked
+14:08:32.207 pages.HotelsPages.LoginPage - clicked
+14:08:58.641 base.CommonAPI - Screenshot captured
+14:09:12.626 pages.HotelsPages.LoginPage - clicked
+14:09:17.555 pages.HotelsPages.LoginPage - clicked
+14:09:17.769 pages.HotelsPages.LoginPage - email entered
+14:09:17.891 pages.HotelsPages.LoginPage - password entered
+14:09:18.031 pages.HotelsPages.LoginPage - clicked
+14:09:25.964 pages.HotelsPages.LoginPage - clicked
+14:09:31.655 pages.HotelsPages.LoginPage - clicked
+14:09:45.722 pages.HotelsPages.LoginPage - clicked
+14:09:50.166 pages.HotelsPages.LoginPage - clicked
+14:09:50.384 pages.HotelsPages.LoginPage - email entered
+14:09:50.511 pages.HotelsPages.LoginPage - password entered
+14:09:50.631 pages.HotelsPages.LoginPage - clicked
+14:09:57.432 pages.HotelsPages.LoginPage - clicked
+14:09:59.659 base.CommonAPI - Screenshot captured
+14:10:13.805 pages.HotelsPages.LoginPage - clicked
+14:10:17.633 pages.HotelsPages.LoginPage - clicked
+14:10:17.860 pages.HotelsPages.LoginPage - email entered
+14:10:17.996 pages.HotelsPages.LoginPage - password entered
+14:10:18.163 pages.HotelsPages.LoginPage - clicked
+14:10:25.960 pages.HotelsPages.LoginPage - clicked
+14:10:26.045 pages.HotelsPages.LoginPage - clicked
+14:10:52.293 base.CommonAPI - Screenshot captured
+14:11:06.951 pages.HotelsPages.LoginPage - clicked
+14:11:07.029 pages.HotelsPages.LoginPage - clicked
+14:11:33.446 base.CommonAPI - Screenshot captured
+14:11:47.891 pages.HotelsPages.LoginPage - clicked
+14:11:52.767 pages.HotelsPages.LoginPage - clicked
+14:11:52.975 pages.HotelsPages.LoginPage - email entered
+14:11:53.103 pages.HotelsPages.LoginPage - password entered
+14:11:53.233 pages.HotelsPages.LoginPage - clicked
+14:12:05.245 pages.HotelsPages.LoginPage - clicked
+14:12:05.310 pages.HotelsPages.LoginPage - clicked
+14:12:31.327 base.CommonAPI - Screenshot captured
+14:12:46.467 pages.HotelsPages.LoginPage - clicked
+14:12:50.394 pages.HotelsPages.LoginPage - clicked
+14:12:50.608 pages.HotelsPages.LoginPage - email entered
+14:12:50.737 pages.HotelsPages.LoginPage - password entered
+14:12:50.871 pages.HotelsPages.LoginPage - clicked
+14:12:57.895 pages.HotelsPages.LoginPage - clicked
+14:13:02.205 pages.HotelsPages.LoginPage - clicked
+14:13:27.647 base.CommonAPI - Screenshot captured
+14:13:39.767 pages.HotelsPages.LoginPage - clicked
+14:13:43.796 pages.HotelsPages.LoginPage - clicked
+14:13:44.002 pages.HotelsPages.LoginPage - email entered
+14:13:44.106 pages.HotelsPages.LoginPage - password entered
+14:13:44.216 pages.HotelsPages.LoginPage - clicked
+14:14:01.687 pages.HotelsPages.LoginPage - clicked
+14:14:05.550 pages.HotelsPages.LoginPage - clicked
+14:14:05.762 pages.HotelsPages.LoginPage - email entered
+14:14:05.886 pages.HotelsPages.LoginPage - password entered
+14:14:06.026 pages.HotelsPages.LoginPage - clicked
+14:14:26.468 pages.HotelsPages.LoginPage - clicked
+14:14:26.574 pages.HotelsPages.LoginPage - clicked
+14:14:52.814 base.CommonAPI - Screenshot captured
+14:15:07.092 pages.HotelsPages.LoginPage - clicked
+14:15:07.174 pages.HotelsPages.LoginPage - clicked
+14:15:33.245 base.CommonAPI - Screenshot captured
+14:15:48.423 pages.HotelsPages.LoginPage - clicked
+14:15:52.440 pages.HotelsPages.LoginPage - clicked
+14:15:52.646 pages.HotelsPages.LoginPage - email entered
+14:15:52.791 pages.HotelsPages.LoginPage - password entered
+14:15:52.919 pages.HotelsPages.LoginPage - clicked
+14:16:00.264 pages.HotelsPages.LoginPage - clicked
+14:16:05.182 pages.HotelsPages.LoginPage - clicked
+14:16:30.693 base.CommonAPI - Screenshot captured
+14:16:44.185 pages.HotelsPages.LoginPage - clicked
+14:16:44.242 pages.HotelsPages.LoginPage - clicked
+14:17:10.255 base.CommonAPI - Screenshot captured
+14:17:25.439 pages.HotelsPages.LoginPage - clicked
+14:17:29.494 pages.HotelsPages.LoginPage - clicked
+14:17:29.725 pages.HotelsPages.LoginPage - email entered
+14:17:29.870 pages.HotelsPages.LoginPage - password entered
+14:17:29.982 pages.HotelsPages.LoginPage - clicked
+14:17:37.898 pages.HotelsPages.LoginPage - clicked
+14:17:43.354 pages.HotelsPages.LoginPage - clicked
+14:17:54.461 base.CommonAPI - Screenshot captured
+14:19:37.143 pages.HotelsPages.RentalCar - clicked
+14:19:40.455 base.CommonAPI - Screenshot captured
+14:19:54.971 pages.HotelsPages.RentalCar - clicked
+14:20:01.096 pages.HotelsPages.RentalCar - clicked
+14:20:02.737 pages.HotelsPages.RentalCar - pickup location entered
+14:20:04.123 pages.HotelsPages.RentalCar - clicked
+14:20:04.255 pages.HotelsPages.RentalCar - clicked
+14:20:04.324 pages.HotelsPages.RentalCar - clicked
+14:20:04.481 pages.HotelsPages.RentalCar - clicked
+14:20:04.603 pages.HotelsPages.RentalCar - clicked
+14:20:04.697 pages.HotelsPages.RentalCar - clicked
+14:20:05.965 pages.HotelsPages.RentalCar - clicked
+14:20:13.985 pages.HotelsPages.RentalCar - clicked
+14:20:30.426 pages.HotelsPages.RentalCar - clicked
+14:20:30.494 pages.HotelsPages.RentalCar - clicked
+14:20:56.878 base.CommonAPI - Screenshot captured
+14:21:12.714 pages.HotelsPages.RentalCar - clicked
+14:21:18.257 pages.HotelsPages.RentalCar - clicked
+14:21:19.848 pages.HotelsPages.RentalCar - pickup location entered
+14:21:21.147 pages.HotelsPages.RentalCar - clicked
+14:21:21.293 pages.HotelsPages.RentalCar - clicked
+14:21:21.364 pages.HotelsPages.RentalCar - clicked
+14:21:21.515 pages.HotelsPages.RentalCar - clicked
+14:21:21.598 pages.HotelsPages.RentalCar - clicked
+14:21:21.668 pages.HotelsPages.RentalCar - clicked
+14:21:22.906 pages.HotelsPages.RentalCar - clicked
+14:21:40.091 pages.HotelsPages.RentalCar - clicked
+14:21:45.547 pages.HotelsPages.RentalCar - clicked
+14:21:47.161 pages.HotelsPages.RentalCar - pickup location entered
+14:21:48.456 pages.HotelsPages.RentalCar - clicked
+14:21:48.600 pages.HotelsPages.RentalCar - clicked
+14:21:48.665 pages.HotelsPages.RentalCar - clicked
+14:21:48.838 pages.HotelsPages.RentalCar - clicked
+14:21:48.968 pages.HotelsPages.RentalCar - clicked
+14:21:49.063 pages.HotelsPages.RentalCar - clicked
+14:21:50.324 pages.HotelsPages.RentalCar - clicked
+14:21:56.781 pages.HotelsPages.RentalCar - clicked
+14:22:10.718 pages.HotelsPages.RentalCar - clicked
+14:22:15.218 pages.HotelsPages.RentalCar - clicked
+14:22:17.006 pages.HotelsPages.RentalCar - pickup location entered
+14:22:18.263 pages.HotelsPages.RentalCar - clicked
+14:22:18.439 pages.HotelsPages.RentalCar - clicked
+14:22:18.509 pages.HotelsPages.RentalCar - clicked
+14:22:18.642 pages.HotelsPages.RentalCar - clicked
+14:22:18.750 pages.HotelsPages.RentalCar - clicked
+14:22:18.840 pages.HotelsPages.RentalCar - clicked
+14:22:20.105 pages.HotelsPages.RentalCar - clicked
+14:22:26.366 pages.HotelsPages.RentalCar - clicked
+14:22:40.394 pages.HotelsPages.RentalCar - clicked
+14:22:40.451 pages.HotelsPages.RentalCar - clicked
+14:23:07.025 base.CommonAPI - Screenshot captured
+14:23:20.370 pages.HotelsPages.RentalCar - clicked
+14:23:25.596 pages.HotelsPages.RentalCar - clicked
+14:23:52.184 base.CommonAPI - Screenshot captured
+14:24:06.420 pages.HotelsPages.RentalCar - clicked
+14:24:12.044 pages.HotelsPages.RentalCar - clicked
+14:24:13.695 pages.HotelsPages.RentalCar - pickup location entered
+14:24:14.912 pages.HotelsPages.RentalCar - clicked
+14:24:15.049 pages.HotelsPages.RentalCar - clicked
+14:24:15.118 pages.HotelsPages.RentalCar - clicked
+14:24:15.274 pages.HotelsPages.RentalCar - clicked
+14:24:15.370 pages.HotelsPages.RentalCar - clicked
+14:24:15.439 pages.HotelsPages.RentalCar - clicked
+14:24:16.802 pages.HotelsPages.RentalCar - clicked
+14:24:22.282 pages.HotelsPages.RentalCar - clicked
+14:24:34.035 pages.HotelsPages.RentalCar - clicked
+14:24:38.503 pages.HotelsPages.RentalCar - clicked
+14:24:40.131 pages.HotelsPages.RentalCar - pickup location entered
+14:24:41.437 pages.HotelsPages.RentalCar - clicked
+14:24:41.589 pages.HotelsPages.RentalCar - clicked
+14:24:41.661 pages.HotelsPages.RentalCar - clicked
+14:24:41.813 pages.HotelsPages.RentalCar - clicked
+14:24:41.936 pages.HotelsPages.RentalCar - clicked
+14:24:42.005 pages.HotelsPages.RentalCar - clicked
+14:24:43.295 pages.HotelsPages.RentalCar - clicked
+14:24:48.771 pages.HotelsPages.RentalCar - clicked
+14:25:01.733 pages.HotelsPages.RentalCar - clicked
+14:25:07.125 pages.HotelsPages.RentalCar - clicked
+14:25:08.740 pages.HotelsPages.RentalCar - pickup location entered
+14:25:10.053 pages.HotelsPages.RentalCar - clicked
+14:25:10.190 pages.HotelsPages.RentalCar - clicked
+14:25:10.261 pages.HotelsPages.RentalCar - clicked
+14:25:10.403 pages.HotelsPages.RentalCar - clicked
+14:25:10.498 pages.HotelsPages.RentalCar - clicked
+14:25:10.572 pages.HotelsPages.RentalCar - clicked
+14:25:11.827 pages.HotelsPages.RentalCar - clicked
+14:25:14.799 pages.HotelsPages.RentalCar - clicked
+14:25:32.159 pages.HotelsPages.RentalCar - clicked
+14:25:37.656 pages.HotelsPages.RentalCar - clicked
+14:25:39.317 pages.HotelsPages.RentalCar - pickup location entered
+14:25:40.668 pages.HotelsPages.RentalCar - clicked
+14:25:40.796 pages.HotelsPages.RentalCar - clicked
+14:25:40.861 pages.HotelsPages.RentalCar - clicked
+14:25:41.004 pages.HotelsPages.RentalCar - clicked
+14:25:41.105 pages.HotelsPages.RentalCar - clicked
+14:25:41.179 pages.HotelsPages.RentalCar - clicked
+14:25:42.588 pages.HotelsPages.RentalCar - clicked
+14:25:46.579 pages.HotelsPages.RentalCar - clicked
+14:26:04.421 pages.HotelsPages.SearchStays - clicked
+14:26:04.709 pages.HotelsPages.SearchStays - location entered
+14:26:04.829 pages.HotelsPages.SearchStays - clicked
+14:26:14.496 pages.HotelsPages.SearchStays - clicked
+14:26:14.579 pages.HotelsPages.SearchStays - clicked
+14:26:14.653 pages.HotelsPages.SearchStays - clicked
+14:26:14.737 pages.HotelsPages.SearchStays - clicked
+14:26:16.977 base.CommonAPI - Screenshot captured
+14:26:29.715 pages.HotelsPages.SearchStays - clicked
+14:26:29.990 pages.HotelsPages.SearchStays - location entered
+14:26:30.133 pages.HotelsPages.SearchStays - clicked
+14:26:32.174 base.CommonAPI - Screenshot captured
+14:26:46.227 pages.HotelsPages.SearchStays - clicked
+14:26:46.445 pages.HotelsPages.SearchStays - location entered
+14:26:46.581 pages.HotelsPages.SearchStays - clicked
+14:26:46.644 pages.HotelsPages.SearchStays - clicked
+14:26:46.772 pages.HotelsPages.SearchStays - clicked
+14:26:46.849 pages.HotelsPages.SearchStays - clicked
+14:26:46.924 pages.HotelsPages.SearchStays - clicked
+14:26:47.009 pages.HotelsPages.SearchStays - clicked
+14:26:54.338 pages.HotelsPages.SearchStays - clicked
+14:27:20.461 base.CommonAPI - Screenshot captured
+14:27:34.827 pages.HotelsPages.SearchStays - clicked
+14:27:35.049 pages.HotelsPages.SearchStays - location entered
+14:27:35.197 pages.HotelsPages.SearchStays - clicked
+14:27:35.298 pages.HotelsPages.SearchStays - clicked
+14:27:35.422 pages.HotelsPages.SearchStays - clicked
+14:27:35.490 pages.HotelsPages.SearchStays - clicked
+14:27:35.568 pages.HotelsPages.SearchStays - clicked
+14:27:38.085 base.CommonAPI - Screenshot captured
+14:27:51.384 pages.HotelsPages.SearchStays - clicked
+14:27:51.595 pages.HotelsPages.SearchStays - location entered
+14:27:51.729 pages.HotelsPages.SearchStays - clicked
+14:27:51.819 pages.HotelsPages.SearchStays - clicked
+14:27:51.930 pages.HotelsPages.SearchStays - clicked
+14:27:51.999 pages.HotelsPages.SearchStays - clicked
+14:27:52.081 pages.HotelsPages.SearchStays - clicked
+14:27:54.096 base.CommonAPI - Screenshot captured
+14:28:07.588 pages.HotelsPages.SearchStays - clicked
+14:28:07.791 pages.HotelsPages.SearchStays - location entered
+14:28:07.932 pages.HotelsPages.SearchStays - clicked
+14:28:08.017 pages.HotelsPages.SearchStays - clicked
+14:28:08.109 pages.HotelsPages.SearchStays - clicked
+14:28:08.197 pages.HotelsPages.SearchStays - clicked
+14:28:08.273 pages.HotelsPages.SearchStays - clicked
+14:28:08.345 pages.HotelsPages.SearchStays - clicked
+14:28:17.856 pages.HotelsPages.SearchStays - clicked
+14:28:18.861 pages.HotelsPages.SearchStays - clicked
+14:28:36.439 pages.HotelsPages.SearchStays - clicked
+14:28:36.630 pages.HotelsPages.SearchStays - location entered
+14:28:36.779 pages.HotelsPages.SearchStays - clicked
+14:28:36.849 pages.HotelsPages.SearchStays - clicked
+14:28:36.925 pages.HotelsPages.SearchStays - clicked
+14:28:37.053 pages.HotelsPages.SearchStays - clicked
+14:28:37.135 pages.HotelsPages.SearchStays - clicked
+14:28:37.203 pages.HotelsPages.SearchStays - clicked
+14:28:46.766 pages.HotelsPages.SearchStays - clicked
+14:28:47.976 pages.HotelsPages.SearchStays - clicked
+14:29:01.675 pages.HotelsPages.SearchStays - clicked
+14:29:01.870 pages.HotelsPages.SearchStays - location entered
+14:29:02.015 pages.HotelsPages.SearchStays - clicked
+14:29:02.076 pages.HotelsPages.SearchStays - clicked
+14:29:02.164 pages.HotelsPages.SearchStays - clicked
+14:29:02.261 pages.HotelsPages.SearchStays - clicked
+14:29:02.325 pages.HotelsPages.SearchStays - clicked
+14:29:02.402 pages.HotelsPages.SearchStays - clicked
+14:29:12.583 pages.HotelsPages.SearchStays - clicked
+14:29:13.822 pages.HotelsPages.SearchStays - clicked
+14:29:32.578 pages.HotelsPages.SearchStays - clicked
+14:29:32.828 pages.HotelsPages.SearchStays - location entered
+14:29:32.957 pages.HotelsPages.SearchStays - clicked
+14:29:33.048 pages.HotelsPages.SearchStays - clicked
+14:29:33.165 pages.HotelsPages.SearchStays - clicked
+14:29:33.244 pages.HotelsPages.SearchStays - clicked
+14:29:33.331 pages.HotelsPages.SearchStays - clicked
+14:29:33.439 pages.HotelsPages.SearchStays - clicked
+14:29:38.921 pages.HotelsPages.SearchStays - clicked
+14:29:45.928 pages.HotelsPages.SearchStays - clicked
+14:35:58.965 base.CommonAPI - Screenshot captured
+14:36:14.086 pages.HotelsPages.SearchStays - clicked
+14:36:14.292 pages.HotelsPages.SearchStays - location entered
+14:36:14.431 pages.HotelsPages.SearchStays - clicked
+14:36:14.487 pages.HotelsPages.SearchStays - clicked
+14:36:14.574 pages.HotelsPages.SearchStays - clicked
+14:36:14.665 pages.HotelsPages.SearchStays - clicked
+14:36:14.735 pages.HotelsPages.SearchStays - clicked
+14:36:14.818 pages.HotelsPages.SearchStays - clicked
+14:36:22.362 pages.HotelsPages.SearchStays - clicked
+14:36:22.772 pages.HotelsPages.SearchStays - clicked
+14:36:41.193 pages.HotelsPages.SearchStays - clicked
+14:36:41.394 pages.HotelsPages.SearchStays - location entered
+14:36:41.563 pages.HotelsPages.SearchStays - clicked
+14:36:42.192 pages.HotelsPages.SearchStays - clicked
+14:36:42.265 pages.HotelsPages.SearchStays - clicked
+14:36:42.327 pages.HotelsPages.SearchStays - clicked
+14:36:42.389 pages.HotelsPages.SearchStays - clicked
+14:36:42.480 pages.HotelsPages.SearchStays - clicked
+14:36:49.537 pages.HotelsPages.SearchStays - clicked
+14:36:49.879 pages.HotelsPages.SearchStays - clicked
+14:37:06.538 pages.HotelsPages.SearchStays - clicked
+14:37:06.734 pages.HotelsPages.SearchStays - location entered
+14:37:06.876 pages.HotelsPages.SearchStays - clicked
+14:37:06.949 pages.HotelsPages.SearchStays - clicked
+14:37:07.029 pages.HotelsPages.SearchStays - clicked
+14:37:07.126 pages.HotelsPages.SearchStays - clicked
+14:37:07.192 pages.HotelsPages.SearchStays - clicked
+14:37:07.264 pages.HotelsPages.SearchStays - clicked
+14:37:15.729 pages.HotelsPages.SearchStays - clicked
+14:37:17.522 pages.HotelsPages.SearchStays - clicked
+14:37:33.627 pages.HotelsPages.SearchStays - clicked
+14:37:33.828 pages.HotelsPages.SearchStays - location entered
+14:37:33.981 pages.HotelsPages.SearchStays - clicked
+14:37:34.056 pages.HotelsPages.SearchStays - clicked
+14:37:34.147 pages.HotelsPages.SearchStays - clicked
+14:37:34.240 pages.HotelsPages.SearchStays - clicked
+14:37:34.314 pages.HotelsPages.SearchStays - clicked
+14:37:36.870 base.CommonAPI - Screenshot captured
+14:37:51.536 pages.HotelsPages.SearchStays - clicked
+14:39:30.480 pages.HotelsPages.SignUp - clicked
+14:39:34.661 pages.HotelsPages.SignUp - clicked
+14:39:35.743 pages.HotelsPages.SignUp - email entered
+14:39:35.988 pages.HotelsPages.SignUp - first name entered
+14:39:36.280 pages.HotelsPages.SignUp - last name entered
+14:39:37.048 pages.HotelsPages.SignUp - password entered
+15:18:55.268 pages.HotelsPages.ChangeRegion - clicked
+15:19:45.473 pages.HotelsPages.ChangeRegion - region selected
+15:19:45.623 pages.HotelsPages.ChangeRegion - clicked
+15:20:06.947 pages.HotelsPages.CustomerService - clicked
+15:20:07.014 pages.HotelsPages.CustomerService - clicked
+15:20:07.109 pages.HotelsPages.CustomerService - clicked
+15:20:07.263 pages.HotelsPages.CustomerService - clicked
+15:20:27.301 pages.HotelsPages.CustomerService - clicked
+15:20:27.378 pages.HotelsPages.CustomerService - clicked
+15:20:27.616 pages.HotelsPages.CustomerService - clicked
+15:20:27.760 pages.HotelsPages.CustomerService - clicked
+15:20:46.468 pages.HotelsPages.CustomerService - clicked
+15:20:46.525 pages.HotelsPages.CustomerService - clicked
+15:20:46.652 pages.HotelsPages.CustomerService - clicked
+15:20:47.006 pages.HotelsPages.CustomerService - clicked
+15:21:05.355 pages.HotelsPages.CustomerService - clicked
+15:21:05.438 pages.HotelsPages.CustomerService - clicked
+15:21:05.639 pages.HotelsPages.CustomerService - clicked
+15:21:05.735 pages.HotelsPages.CustomerService - clicked
+15:21:06.021 pages.HotelsPages.CustomerService - clicked
+15:21:22.060 pages.HotelsPages.CustomerService - clicked
+15:21:22.122 pages.HotelsPages.CustomerService - clicked
+15:21:38.554 pages.HotelsPages.Footers - clicked
+15:21:42.893 pages.HotelsPages.Footers - clicked
+15:21:56.544 pages.HotelsPages.Footers - clicked
+15:22:02.750 pages.HotelsPages.Footers - clicked
+15:22:16.934 pages.HotelsPages.Footers - clicked
+15:22:34.776 pages.HotelsPages.Footers - clicked
+15:22:39.000 pages.HotelsPages.Footers - clicked
+15:22:51.592 pages.HotelsPages.Footers - clicked
+15:23:10.392 pages.HotelsPages.Footers - clicked
+15:23:25.049 pages.HotelsPages.Footers - clicked
+15:23:43.741 pages.HotelsPages.Footers - clicked
+15:23:55.863 pages.HotelsPages.Footers - clicked
+15:24:11.135 pages.HotelsPages.Footers - clicked
+15:24:26.174 pages.HotelsPages.Footers - clicked
+15:24:41.968 pages.HotelsPages.Footers - clicked
+15:24:57.515 pages.HotelsPages.Footers - clicked
+15:25:12.794 pages.HotelsPages.Footers - clicked
+15:25:29.066 pages.HotelsPages.Footers - clicked
+15:25:36.404 base.CommonAPI - Screenshot captured
+15:25:51.514 pages.HotelsPages.Footers - clicked
+15:25:51.574 pages.HotelsPages.Footers - checked mark
+15:26:10.471 pages.HotelsPages.Footers - clicked
+15:26:12.057 pages.HotelsPages.Footers - clicked
+15:26:28.073 pages.HotelsPages.HomePage - clicked
+15:26:43.109 pages.HotelsPages.HomePage - clicked
+15:26:55.741 pages.HotelsPages.ListYourProperty - clicked
+15:27:00.372 pages.HotelsPages.ListYourProperty - clicked
+15:27:13.348 pages.HotelsPages.ListYourProperty - clicked
+15:27:21.586 pages.HotelsPages.ListYourProperty - clicked
+15:27:35.524 pages.HotelsPages.LoginPage - clicked
+15:27:40.251 pages.HotelsPages.LoginPage - clicked
+15:27:40.446 pages.HotelsPages.LoginPage - email entered
+15:27:40.560 pages.HotelsPages.LoginPage - password entered
+15:27:40.685 pages.HotelsPages.LoginPage - clicked
+15:27:47.516 pages.HotelsPages.LoginPage - clicked
+15:27:50.122 pages.HotelsPages.LoginPage - clicked
+15:27:52.395 pages.HotelsPages.LoginPage - clicked
+15:28:06.187 pages.HotelsPages.LoginPage - clicked
+15:28:06.244 pages.HotelsPages.LoginPage - clicked
+15:28:26.628 base.CommonAPI - Screenshot captured
+16:25:46.380 base.CommonAPI - Screenshot captured
+16:26:03.428 pages.HotelsPages.LoginPage - clicked
+16:26:03.486 pages.HotelsPages.LoginPage - clicked
+16:26:56.090 base.CommonAPI - Screenshot captured
+16:27:13.604 pages.HotelsPages.LoginPage - clicked
+16:27:16.590 base.CommonAPI - Screenshot captured
+16:27:30.472 pages.HotelsPages.LoginPage - clicked
+16:27:35.438 pages.HotelsPages.LoginPage - clicked
+16:27:35.664 pages.HotelsPages.LoginPage - email entered
+16:27:35.800 pages.HotelsPages.LoginPage - password entered
+16:27:35.926 pages.HotelsPages.LoginPage - clicked
+16:27:44.265 pages.HotelsPages.LoginPage - clicked
+16:27:50.982 pages.HotelsPages.LoginPage - clicked
+16:28:04.568 pages.HotelsPages.LoginPage - clicked
+16:28:09.609 pages.HotelsPages.LoginPage - clicked
+16:28:09.825 pages.HotelsPages.LoginPage - email entered
+16:28:09.942 pages.HotelsPages.LoginPage - password entered
+16:28:10.061 pages.HotelsPages.LoginPage - clicked
+16:28:18.293 pages.HotelsPages.LoginPage - clicked
+16:28:20.317 base.CommonAPI - Screenshot captured
+16:28:33.904 pages.HotelsPages.LoginPage - clicked
+16:28:33.960 pages.HotelsPages.LoginPage - clicked
+16:29:25.369 base.CommonAPI - Screenshot captured
+16:29:39.706 pages.HotelsPages.LoginPage - clicked
+16:29:44.034 pages.HotelsPages.LoginPage - clicked
+16:29:44.242 pages.HotelsPages.LoginPage - email entered
+16:29:44.360 pages.HotelsPages.LoginPage - password entered
+16:29:44.481 pages.HotelsPages.LoginPage - clicked
+16:29:52.179 pages.HotelsPages.LoginPage - clicked
+16:29:56.101 pages.HotelsPages.LoginPage - clicked
+16:29:58.481 pages.HotelsPages.LoginPage - clicked
+16:30:09.914 pages.HotelsPages.LoginPage - clicked
+16:30:14.025 pages.HotelsPages.LoginPage - clicked
+16:30:14.224 pages.HotelsPages.LoginPage - email entered
+16:30:14.346 pages.HotelsPages.LoginPage - password entered
+16:30:14.475 pages.HotelsPages.LoginPage - clicked
+16:30:22.510 pages.HotelsPages.LoginPage - clicked
+16:30:25.076 base.CommonAPI - Screenshot captured
+16:30:38.503 pages.HotelsPages.LoginPage - clicked
+16:30:38.563 pages.HotelsPages.LoginPage - clicked
+16:31:29.515 base.CommonAPI - Screenshot captured
+16:31:42.966 pages.HotelsPages.LoginPage - clicked
+16:31:47.290 pages.HotelsPages.LoginPage - clicked
+16:31:47.487 pages.HotelsPages.LoginPage - email entered
+16:31:47.592 pages.HotelsPages.LoginPage - password entered
+16:31:47.723 pages.HotelsPages.LoginPage - clicked
+16:32:04.768 pages.HotelsPages.LoginPage - clicked
+16:32:09.798 pages.HotelsPages.LoginPage - clicked
+16:32:10.023 pages.HotelsPages.LoginPage - email entered
+16:32:10.148 pages.HotelsPages.LoginPage - password entered
+16:32:10.287 pages.HotelsPages.LoginPage - clicked
+16:32:32.954 pages.HotelsPages.LoginPage - clicked
+16:32:33.011 pages.HotelsPages.LoginPage - clicked
+16:33:23.910 base.CommonAPI - Screenshot captured
+16:33:37.070 pages.HotelsPages.LoginPage - clicked
+16:33:41.205 pages.HotelsPages.LoginPage - clicked
+16:33:41.423 pages.HotelsPages.LoginPage - email entered
+16:33:41.543 pages.HotelsPages.LoginPage - password entered
+16:33:41.682 pages.HotelsPages.LoginPage - clicked
+16:33:50.642 pages.HotelsPages.LoginPage - clicked
+16:33:54.619 pages.HotelsPages.LoginPage - clicked
+16:33:57.116 pages.HotelsPages.LoginPage - clicked
+16:33:59.244 pages.HotelsPages.LoginPage - clicked
+16:34:01.405 pages.HotelsPages.LoginPage - clicked
+16:34:15.923 pages.HotelsPages.LoginPage - clicked
+16:34:20.029 pages.HotelsPages.LoginPage - clicked
+16:34:20.214 pages.HotelsPages.LoginPage - email entered
+16:34:20.332 pages.HotelsPages.LoginPage - password entered
+16:34:20.461 pages.HotelsPages.LoginPage - clicked
+16:34:27.564 pages.HotelsPages.LoginPage - clicked
+16:34:29.878 base.CommonAPI - Screenshot captured
+16:34:44.315 pages.HotelsPages.LoginPage - clicked
+16:34:48.645 pages.HotelsPages.LoginPage - clicked
+16:34:48.845 pages.HotelsPages.LoginPage - email entered
+16:34:48.958 pages.HotelsPages.LoginPage - password entered
+16:34:49.090 pages.HotelsPages.LoginPage - clicked
+16:34:57.441 pages.HotelsPages.LoginPage - clicked
+16:34:57.527 pages.HotelsPages.LoginPage - clicked
+16:35:48.694 base.CommonAPI - Screenshot captured
+16:36:03.569 pages.HotelsPages.LoginPage - clicked
+16:36:08.219 pages.HotelsPages.LoginPage - clicked
+16:36:08.413 pages.HotelsPages.LoginPage - email entered
+16:36:08.527 pages.HotelsPages.LoginPage - password entered
+16:36:08.655 pages.HotelsPages.LoginPage - clicked
+16:36:21.520 pages.HotelsPages.LoginPage - clicked
+16:36:24.502 pages.HotelsPages.LoginPage - clicked
+16:36:27.324 pages.HotelsPages.LoginPage - clicked
+16:36:27.504 pages.HotelsPages.LoginPage - clicked
+16:36:28.077 pages.HotelsPages.LoginPage - deleted
+16:36:28.162 pages.HotelsPages.LoginPage - phone entered
+16:36:28.233 pages.HotelsPages.LoginPage - clicked
+16:36:28.309 pages.HotelsPages.LoginPage - clicked
+16:36:43.267 pages.HotelsPages.RentalCar - clicked
+16:36:47.138 pages.HotelsPages.RentalCar - clicked
+16:37:38.571 base.CommonAPI - Screenshot captured
+16:37:51.678 pages.HotelsPages.RentalCar - clicked
+16:37:57.793 pages.HotelsPages.RentalCar - clicked
+16:37:59.427 pages.HotelsPages.RentalCar - pickup location entered
+16:38:00.744 pages.HotelsPages.RentalCar - clicked
+16:38:00.863 pages.HotelsPages.RentalCar - clicked
+16:38:00.924 pages.HotelsPages.RentalCar - clicked
+16:38:01.036 pages.HotelsPages.RentalCar - clicked
+16:38:01.115 pages.HotelsPages.RentalCar - clicked
+16:38:01.170 pages.HotelsPages.RentalCar - clicked
+16:38:02.502 pages.HotelsPages.RentalCar - clicked
+16:38:10.147 pages.HotelsPages.RentalCar - clicked
+16:38:24.977 pages.HotelsPages.RentalCar - clicked
+16:38:30.550 pages.HotelsPages.RentalCar - clicked
+16:38:32.175 pages.HotelsPages.RentalCar - pickup location entered
+16:38:33.429 pages.HotelsPages.RentalCar - clicked
+16:38:33.541 pages.HotelsPages.RentalCar - clicked
+16:38:33.603 pages.HotelsPages.RentalCar - clicked
+16:38:33.706 pages.HotelsPages.RentalCar - clicked
+16:38:33.797 pages.HotelsPages.RentalCar - clicked
+16:38:33.852 pages.HotelsPages.RentalCar - clicked
+16:38:35.208 pages.HotelsPages.RentalCar - clicked
+16:38:41.173 pages.HotelsPages.RentalCar - clicked
+16:38:41.477 pages.HotelsPages.RentalCar - clicked
+16:38:55.425 pages.HotelsPages.RentalCar - clicked
+16:39:01.034 pages.HotelsPages.RentalCar - clicked
+16:39:02.649 pages.HotelsPages.RentalCar - pickup location entered
+16:39:04.031 pages.HotelsPages.RentalCar - clicked
+16:39:04.148 pages.HotelsPages.RentalCar - clicked
+16:39:04.209 pages.HotelsPages.RentalCar - clicked
+16:39:04.328 pages.HotelsPages.RentalCar - clicked
+16:39:04.407 pages.HotelsPages.RentalCar - clicked
+16:39:04.460 pages.HotelsPages.RentalCar - clicked
+16:39:05.799 pages.HotelsPages.RentalCar - clicked
+16:39:21.820 pages.HotelsPages.RentalCar - clicked
+16:39:26.268 pages.HotelsPages.RentalCar - clicked
+16:39:27.849 pages.HotelsPages.RentalCar - pickup location entered
+16:39:29.311 pages.HotelsPages.RentalCar - clicked
+16:39:29.438 pages.HotelsPages.RentalCar - clicked
+16:39:29.501 pages.HotelsPages.RentalCar - clicked
+16:39:29.605 pages.HotelsPages.RentalCar - clicked
+16:39:29.683 pages.HotelsPages.RentalCar - clicked
+16:39:29.741 pages.HotelsPages.RentalCar - clicked
+16:39:30.947 pages.HotelsPages.RentalCar - clicked
+16:39:36.619 pages.HotelsPages.RentalCar - clicked
+16:50:52.430 pages.HotelsPages.SearchStays - clicked
+16:50:53.093 pages.HotelsPages.SearchStays - location entered
+16:50:53.275 pages.HotelsPages.SearchStays - clicked
+16:51:02.663 pages.HotelsPages.SearchStays - clicked
+16:51:02.919 pages.HotelsPages.SearchStays - clicked
+16:51:03.063 pages.HotelsPages.SearchStays - clicked
+16:51:03.287 pages.HotelsPages.SearchStays - clicked
+16:51:03.386 pages.HotelsPages.SearchStays - clicked
+16:51:13.189 pages.HotelsPages.SearchStays - clicked
+16:52:04.985 base.CommonAPI - Screenshot captured
+16:52:21.408 pages.HotelsPages.SearchStays - clicked
+16:52:21.657 pages.HotelsPages.SearchStays - location entered
+16:52:21.812 pages.HotelsPages.SearchStays - clicked
+16:52:21.910 pages.HotelsPages.SearchStays - clicked
+16:52:22.017 pages.HotelsPages.SearchStays - clicked
+16:52:22.087 pages.HotelsPages.SearchStays - clicked
+16:52:22.157 pages.HotelsPages.SearchStays - clicked
+16:52:22.221 pages.HotelsPages.SearchStays - clicked
+16:52:29.882 pages.HotelsPages.SearchStays - clicked
+16:53:21.587 base.CommonAPI - Screenshot captured
+16:53:33.893 pages.HotelsPages.SearchStays - clicked
+16:53:34.114 pages.HotelsPages.SearchStays - location entered
+16:53:34.266 pages.HotelsPages.SearchStays - clicked
+16:53:34.353 pages.HotelsPages.SearchStays - clicked
+16:53:34.472 pages.HotelsPages.SearchStays - clicked
+16:53:34.535 pages.HotelsPages.SearchStays - clicked
+16:53:34.602 pages.HotelsPages.SearchStays - clicked
+16:53:34.694 pages.HotelsPages.SearchStays - clicked
+16:53:43.862 pages.HotelsPages.SearchStays - clicked
+16:55:53.277 pages.HotelsPages.SignUp - clicked
+16:55:57.840 pages.HotelsPages.SignUp - clicked
+16:55:58.985 pages.HotelsPages.SignUp - email entered
+16:55:59.264 pages.HotelsPages.SignUp - first name entered
+16:55:59.534 pages.HotelsPages.SignUp - last name entered
+16:56:00.262 pages.HotelsPages.SignUp - password entered
+19:51:32.942 pages.HotelsPages.ChangeRegion - clicked
+19:52:23.181 pages.HotelsPages.ChangeRegion - region selected
+19:52:23.336 pages.HotelsPages.ChangeRegion - clicked
+19:52:37.430 pages.HotelsPages.CustomerService - clicked
+19:52:37.518 pages.HotelsPages.CustomerService - clicked
+19:52:37.737 pages.HotelsPages.CustomerService - clicked
+19:52:37.876 pages.HotelsPages.CustomerService - clicked
+19:52:47.368 pages.HotelsPages.CustomerService - clicked
+19:52:47.452 pages.HotelsPages.CustomerService - clicked
+19:52:47.720 pages.HotelsPages.CustomerService - clicked
+19:52:47.827 pages.HotelsPages.CustomerService - clicked
+19:52:58.065 pages.HotelsPages.CustomerService - clicked
+19:52:58.150 pages.HotelsPages.CustomerService - clicked
+19:52:58.351 pages.HotelsPages.CustomerService - clicked
+19:52:58.485 pages.HotelsPages.CustomerService - clicked
+19:53:06.531 pages.HotelsPages.CustomerService - clicked
+19:53:06.605 pages.HotelsPages.CustomerService - clicked
+19:55:06.918 pages.HotelsPages.Footers - clicked
+19:55:09.014 pages.HotelsPages.Footers - clicked
+19:55:14.628 pages.HotelsPages.Footers - clicked
+19:55:17.322 pages.HotelsPages.Footers - clicked
+19:55:24.022 pages.HotelsPages.Footers - clicked
+19:55:31.282 pages.HotelsPages.Footers - clicked
+19:55:32.932 pages.HotelsPages.Footers - clicked
+19:55:38.987 pages.HotelsPages.Footers - clicked
+19:55:46.764 pages.HotelsPages.Footers - clicked
+19:55:52.775 pages.HotelsPages.Footers - clicked
+19:56:00.987 pages.HotelsPages.Footers - clicked
+19:56:07.095 pages.HotelsPages.Footers - clicked
+19:56:14.165 pages.HotelsPages.Footers - clicked
+19:56:22.640 pages.HotelsPages.Footers - clicked
+19:56:30.440 pages.HotelsPages.Footers - clicked
+19:56:38.139 pages.HotelsPages.Footers - clicked
+19:56:44.449 pages.HotelsPages.Footers - clicked
+19:56:50.408 pages.HotelsPages.Footers - clicked
+19:57:02.811 pages.HotelsPages.Footers - clicked
+19:57:03.059 pages.HotelsPages.Footers - checked mark
+19:57:10.024 pages.HotelsPages.Footers - clicked
+19:57:10.726 pages.HotelsPages.Footers - clicked
+19:57:18.388 pages.HotelsPages.HomePage - clicked
+19:57:25.400 pages.HotelsPages.HomePage - clicked
+19:57:31.240 pages.HotelsPages.ListYourProperty - clicked
+19:57:33.671 pages.HotelsPages.ListYourProperty - clicked
+19:57:38.464 pages.HotelsPages.ListYourProperty - clicked
+19:57:41.998 pages.HotelsPages.ListYourProperty - clicked
+19:57:47.631 pages.HotelsPages.LoginPage - clicked
+19:57:49.967 pages.HotelsPages.LoginPage - clicked
+19:57:50.179 pages.HotelsPages.LoginPage - email entered
+19:57:50.290 pages.HotelsPages.LoginPage - password entered
+19:57:50.400 pages.HotelsPages.LoginPage - clicked
+19:57:55.838 pages.HotelsPages.LoginPage - clicked
+19:57:55.965 pages.HotelsPages.LoginPage - clicked
+19:58:47.003 base.CommonAPI - Screenshot captured
+19:58:53.192 pages.HotelsPages.LoginPage - clicked
+19:58:55.231 pages.HotelsPages.LoginPage - clicked
+19:58:55.431 pages.HotelsPages.LoginPage - email entered
+19:58:55.543 pages.HotelsPages.LoginPage - password entered
+19:58:55.659 pages.HotelsPages.LoginPage - clicked
+19:59:01.779 pages.HotelsPages.LoginPage - clicked
+19:59:02.370 pages.HotelsPages.LoginPage - clicked
+19:59:07.977 pages.HotelsPages.LoginPage - clicked
+19:59:09.835 pages.HotelsPages.LoginPage - clicked
+19:59:10.021 pages.HotelsPages.LoginPage - email entered
+19:59:10.129 pages.HotelsPages.LoginPage - password entered
+19:59:10.237 pages.HotelsPages.LoginPage - clicked
+19:59:15.367 pages.HotelsPages.LoginPage - clicked
+19:59:16.495 pages.HotelsPages.LoginPage - clicked
+20:00:07.229 base.CommonAPI - Screenshot captured
+20:00:14.514 pages.HotelsPages.LoginPage - clicked
+20:00:16.455 pages.HotelsPages.LoginPage - clicked
+20:00:16.650 pages.HotelsPages.LoginPage - email entered
+20:00:16.775 pages.HotelsPages.LoginPage - password entered
+20:00:16.895 pages.HotelsPages.LoginPage - clicked
+20:00:23.212 pages.HotelsPages.LoginPage - clicked
+20:00:25.999 pages.HotelsPages.LoginPage - clicked
+20:00:27.914 pages.HotelsPages.LoginPage - clicked
+20:00:28.386 pages.HotelsPages.LoginPage - clicked
+20:00:28.476 pages.HotelsPages.LoginPage - country selected
+20:00:29.129 pages.HotelsPages.LoginPage - clicked
+20:00:29.260 pages.HotelsPages.LoginPage - clicked
+20:00:36.883 pages.HotelsPages.LoginPage - clicked
+20:00:37.041 pages.HotelsPages.LoginPage - clicked
+20:01:27.980 base.CommonAPI - Screenshot captured
+20:01:34.403 pages.HotelsPages.LoginPage - clicked
+20:01:40.970 pages.HotelsPages.LoginPage - clicked
+20:01:41.171 pages.HotelsPages.LoginPage - email entered
+20:01:41.302 pages.HotelsPages.LoginPage - password entered
+20:01:41.432 pages.HotelsPages.LoginPage - clicked
+20:02:31.926 base.CommonAPI - Screenshot captured
+20:02:37.759 pages.HotelsPages.LoginPage - clicked
+20:02:40.495 pages.HotelsPages.LoginPage - clicked
+20:02:40.701 pages.HotelsPages.LoginPage - email entered
+20:02:40.820 pages.HotelsPages.LoginPage - password entered
+20:02:40.930 pages.HotelsPages.LoginPage - clicked
+20:02:46.510 pages.HotelsPages.LoginPage - clicked
+20:02:48.231 pages.HotelsPages.LoginPage - clicked
+20:02:52.831 pages.HotelsPages.LoginPage - clicked
+20:02:58.584 pages.HotelsPages.LoginPage - clicked
+20:02:58.677 pages.HotelsPages.LoginPage - clicked
+20:03:49.902 base.CommonAPI - Screenshot captured
+20:03:55.675 pages.HotelsPages.LoginPage - clicked
+20:03:57.510 pages.HotelsPages.LoginPage - clicked
+20:03:57.724 pages.HotelsPages.LoginPage - email entered
+20:03:57.854 pages.HotelsPages.LoginPage - password entered
+20:03:57.981 pages.HotelsPages.LoginPage - clicked
+20:04:04.159 pages.HotelsPages.LoginPage - clicked
+20:04:06.168 pages.HotelsPages.LoginPage - clicked
+20:04:07.521 pages.HotelsPages.LoginPage - clicked
+20:04:13.377 pages.HotelsPages.LoginPage - clicked
+20:04:15.316 pages.HotelsPages.LoginPage - clicked
+20:04:15.523 pages.HotelsPages.LoginPage - email entered
+20:04:15.662 pages.HotelsPages.LoginPage - password entered
+20:04:15.787 pages.HotelsPages.LoginPage - clicked
+20:04:22.404 pages.HotelsPages.LoginPage - clicked
+20:04:26.597 pages.HotelsPages.LoginPage - clicked
+20:04:32.177 pages.HotelsPages.LoginPage - clicked
+20:04:34.736 base.CommonAPI - Screenshot captured
+20:04:40.725 pages.HotelsPages.LoginPage - clicked
+20:04:40.842 pages.HotelsPages.LoginPage - clicked
+20:05:32.087 base.CommonAPI - Screenshot captured
+20:05:38.349 pages.HotelsPages.LoginPage - clicked
+20:05:38.418 pages.HotelsPages.LoginPage - clicked
+20:06:29.401 base.CommonAPI - Screenshot captured
+20:06:35.742 pages.HotelsPages.LoginPage - clicked
+20:06:37.911 pages.HotelsPages.LoginPage - clicked
+20:06:38.116 pages.HotelsPages.LoginPage - email entered
+20:06:38.249 pages.HotelsPages.LoginPage - password entered
+20:06:38.374 pages.HotelsPages.LoginPage - clicked
+20:06:44.591 pages.HotelsPages.LoginPage - clicked
+20:06:44.744 pages.HotelsPages.LoginPage - clicked
+20:06:50.509 pages.HotelsPages.LoginPage - clicked
+20:06:52.484 pages.HotelsPages.LoginPage - clicked
+20:06:52.700 pages.HotelsPages.LoginPage - email entered
+20:06:52.831 pages.HotelsPages.LoginPage - password entered
+20:06:52.950 pages.HotelsPages.LoginPage - clicked
+20:06:58.961 pages.HotelsPages.LoginPage - clicked
+20:07:01.409 pages.HotelsPages.LoginPage - clicked
+20:07:03.414 pages.HotelsPages.LoginPage - clicked
+20:07:04.712 pages.HotelsPages.LoginPage - clicked
+20:07:06.397 pages.HotelsPages.LoginPage - clicked
+20:07:12.700 pages.HotelsPages.LoginPage - clicked
+20:07:14.536 pages.HotelsPages.LoginPage - clicked
+20:07:14.741 pages.HotelsPages.LoginPage - email entered
+20:07:14.871 pages.HotelsPages.LoginPage - password entered
+20:07:15.008 pages.HotelsPages.LoginPage - clicked
+20:07:21.515 pages.HotelsPages.LoginPage - clicked
+20:07:23.779 base.CommonAPI - Screenshot captured
+20:07:29.097 pages.HotelsPages.LoginPage - clicked
+20:07:29.276 pages.HotelsPages.LoginPage - clicked
+20:08:20.534 base.CommonAPI - Screenshot captured
+20:08:26.649 pages.HotelsPages.LoginPage - clicked
+20:08:28.747 pages.HotelsPages.LoginPage - clicked
+20:08:28.948 pages.HotelsPages.LoginPage - email entered
+20:08:29.070 pages.HotelsPages.LoginPage - password entered
+20:08:29.190 pages.HotelsPages.LoginPage - clicked
+20:08:35.494 pages.HotelsPages.LoginPage - clicked
+20:08:38.843 pages.HotelsPages.LoginPage - clicked
+20:08:40.567 pages.HotelsPages.LoginPage - clicked
+20:08:40.862 pages.HotelsPages.LoginPage - clicked
+20:08:41.416 pages.HotelsPages.LoginPage - deleted
+20:08:41.553 pages.HotelsPages.LoginPage - phone entered
+20:08:41.627 pages.HotelsPages.LoginPage - clicked
+20:08:41.787 pages.HotelsPages.LoginPage - clicked
+20:08:49.312 pages.HotelsPages.RentalCar - clicked
+20:08:51.404 pages.HotelsPages.RentalCar - clicked
+20:08:52.220 pages.HotelsPages.RentalCar - pickup location entered
+20:08:53.471 pages.HotelsPages.RentalCar - clicked
+20:08:53.615 pages.HotelsPages.RentalCar - clicked
+20:08:53.692 pages.HotelsPages.RentalCar - clicked
+20:08:53.826 pages.HotelsPages.RentalCar - clicked
+20:08:53.919 pages.HotelsPages.RentalCar - clicked
+20:08:53.988 pages.HotelsPages.RentalCar - clicked
+20:08:54.772 pages.HotelsPages.RentalCar - clicked
+20:09:02.238 pages.HotelsPages.RentalCar - clicked
+20:09:08.354 pages.HotelsPages.RentalCar - clicked
+20:09:10.399 pages.HotelsPages.RentalCar - clicked
+20:09:11.294 pages.HotelsPages.RentalCar - pickup location entered
+20:09:12.522 pages.HotelsPages.RentalCar - clicked
+20:09:12.669 pages.HotelsPages.RentalCar - clicked
+20:09:12.747 pages.HotelsPages.RentalCar - clicked
+20:09:12.875 pages.HotelsPages.RentalCar - clicked
+20:09:12.963 pages.HotelsPages.RentalCar - clicked
+20:09:13.047 pages.HotelsPages.RentalCar - clicked
+20:09:13.786 pages.HotelsPages.RentalCar - clicked
+20:09:18.002 pages.HotelsPages.RentalCar - clicked
+20:09:24.606 pages.HotelsPages.RentalCar - clicked
+20:09:26.615 pages.HotelsPages.RentalCar - clicked
+20:09:27.450 pages.HotelsPages.RentalCar - pickup location entered
+20:09:28.405 pages.HotelsPages.RentalCar - clicked
+20:09:28.549 pages.HotelsPages.RentalCar - clicked
+20:09:28.631 pages.HotelsPages.RentalCar - clicked
+20:09:28.795 pages.HotelsPages.RentalCar - clicked
+20:09:28.933 pages.HotelsPages.RentalCar - clicked
+20:09:29.050 pages.HotelsPages.RentalCar - clicked
+20:09:29.851 pages.HotelsPages.RentalCar - clicked
+20:09:34.127 pages.HotelsPages.RentalCar - clicked
+20:09:35.657 pages.HotelsPages.RentalCar - clicked
+20:09:41.705 pages.HotelsPages.RentalCar - clicked
+20:09:43.948 pages.HotelsPages.RentalCar - clicked
+20:09:44.762 pages.HotelsPages.RentalCar - pickup location entered
+20:09:45.738 pages.HotelsPages.RentalCar - clicked
+20:09:45.880 pages.HotelsPages.RentalCar - clicked
+20:09:45.952 pages.HotelsPages.RentalCar - clicked
+20:09:46.149 pages.HotelsPages.RentalCar - clicked
+20:09:46.255 pages.HotelsPages.RentalCar - clicked
+20:09:46.324 pages.HotelsPages.RentalCar - clicked
+20:09:47.094 pages.HotelsPages.RentalCar - clicked
+20:09:55.184 pages.HotelsPages.RentalCar - clicked
+20:09:55.266 pages.HotelsPages.RentalCar - clicked
+20:10:18.779 base.CommonAPI - Screenshot captured
